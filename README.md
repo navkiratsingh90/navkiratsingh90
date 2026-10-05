@@ -117,16 +117,6 @@
 
 ---
 
-## 🏆 Achievements
-
-| | |
-|---|---|
-| 🧩 **DSA** | Solved **700+** problems across LeetCode and GeeksforGeeks |
-| 📈 **LeetCode Contests** | Rating of **1700+** |
-| 🎓 **AI Essentials (Univ. of Maryland)** | **2nd position** in the university-level selection among **150+** candidates |
-| 📚 **Academics** | CGPA **8.55 / 10** (B.Tech CSE) • **90.8%** in Class 12 (PCM) |
-
----
 
 ## 📊 GitHub Stats
 
@@ -145,14 +135,6 @@
 
 </div>
 
----
-
-## 🎓 Education
-
-| Degree | Institution | Duration | Score |
-|---|---|---|---|
-| B.Tech, Computer Science & Engineering | Guru Nanak Dev University, Amritsar | Aug 2023 – Jun 2027 | CGPA 8.55 / 10 |
-| Senior Secondary (12th), PCM | Sri Guru Harkrishan Public School | Mar 2021 – Feb 2022 | 90.8% |
 
 ---
 

@@ -43,6 +43,7 @@ I'm also a consistent problem solver: **850+ DSA problems** solved on LeetCode a
 
 ### **Programming Languages**
 <div align="center">
+  <img src="https://img.shields.io/badge/C++-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -113,20 +114,6 @@ I'm also a consistent problem solver: **850+ DSA problems** solved on LeetCode a
 
 ---
 
-## 🚀 Featured Projects
-
-### 🚗 Fleeter: Full-Stack Ride-Hailing Platform
-**Stack:** `Next.js` `TypeScript` `MongoDB` `Socket.io` `Cloudinary` `ZegoCloud`
-
-- Production-grade ride-hailing platform with **real-time booking** and **live driver tracking**
-- **Video KYC** (via ZegoCloud) for driver verification, with **role-based access control** for Riders, Drivers and Admins
-- Real-time ride request handling with **AI-powered in-app chat** between riders and drivers using Socket.IO
-- Admin dashboard with **automated fare calculation**, earnings breakdown and centralized KYC review
-
-[![GitHub](https://img.shields.io/badge/Source_Code-181717?style=flat&logo=github)](https://github.com/navkiratsingh90/REPO-NAME-FOR-FLEETER)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-2C9CDB?style=flat&logo=vercel&logoColor=white)](https://YOUR-FLEETER-LIVE-LINK)
-
----
 
 ### 💻 DevNautics: Developer Skill Enhancement Platform
 **Stack:** `Next.js` `TypeScript` `MongoDB` `NodeMailer` `Socket.IO` `Cloudinary`
@@ -137,18 +124,6 @@ I'm also a consistent problem solver: **850+ DSA problems** solved on LeetCode a
 
 [![GitHub](https://img.shields.io/badge/Source_Code-181717?style=flat&logo=github)](https://github.com/navkiratsingh90/REPO-NAME-FOR-DEVNAUTICS)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-2C9CDB?style=flat&logo=vercel&logoColor=white)](https://YOUR-DEVNAUTICS-LIVE-LINK)
-
----
-
-### 🧠 NeuroSight: Alzheimer's MRI Diagnostic Tool
-**Stack:** `CNN (DenseNet)` `Next.js` `FastAPI` `LangChain` `ChromaDB` `Gemini`
-
-- **DenseNet CNN with 95.6% accuracy** for Alzheimer's MRI classification on the OASIS dataset, using **balanced batch sampling** to handle severe class imbalance (67K vs 15K minority classes)
-- Production-ready full-stack platform with **JWT auth** and **role-based dashboards** for MRI upload, prediction history and admin management
-- **LangChain RAG pipeline** (ChromaDB + Gemini) for PDF-based clinical Q&A, so users can upload research papers and ask context-aware questions
-
-[![GitHub](https://img.shields.io/badge/Source_Code-181717?style=flat&logo=github)](https://github.com/navkiratsingh90/REPO-NAME-FOR-NEUROSIGHT)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-2C9CDB?style=flat&logo=vercel&logoColor=white)](https://YOUR-NEUROSIGHT-LIVE-LINK)
 
 ---
 

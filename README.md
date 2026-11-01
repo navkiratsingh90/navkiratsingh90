@@ -1,78 +1,98 @@
-<!-- Create a repo named exactly "navkiratsingh90" (same as your username), make it public, and put this file in it as README.md -->
+# <div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Navkirat+Singh;Full-Stack+%26+ML+Developer;Next.js+%7C+FastAPI+%7C+Express+Developer;AI+Platform+Builder+%7C+700%2B+DSA+Problems+Solved" alt="Typing animation" /></div>
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Navkirat%20Singh&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%26%20ML%20Developer&descAlignY=58&descSize=22" width="100%" />
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2C9CDB&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B+I'm+Navkirat;B.Tech+CSE+Student+%7C+Full-Stack+Developer;Building+AI-powered+web+platforms;700%2B+DSA+problems+solved+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=navkiratsingh90&label=Profile%20Views&color=0e75b6&style=flat)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-ID)
-[![Gmail](https://img.shields.io/badge/Gmail-Email%20Me-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kiratsingh2181@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/YOUR-LEETCODE-ID)
-
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=navkiratsingh90&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+    <img src="https://img.shields.io/badge/Based_in-Amritsar%2C_Punjab-blue?style=flat-square&logo=google-maps&logoColor=white" alt="Location" />
+    <img src="https://img.shields.io/badge/Student_Developer-GNDU-blueviolet?style=flat-square" alt="Education" />
+    <img src="https://img.shields.io/badge/CGPA-8.55-success?style=flat-square" alt="CGPA" />
+  </p>
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-- 🎓 B.Tech in **Computer Science & Engineering** at **Guru Nanak Dev University, Amritsar** (2023 – 2027), CGPA **8.55 / 10**
-- 🚀 Full-stack developer who loves building **production-grade platforms** with real-time features and **AI/ML integrations**
-- 🧠 Worked on **medical imaging with deep learning (CNNs)** and **RAG pipelines with LangChain**
-- 🧩 Solved **700+ DSA problems** on LeetCode and GeeksforGeeks
-- 🏆 **1700+** rating in LeetCode contests
-- 🎖️ Secured **2nd position** out of 150+ candidates in the university-level selection for the **AI Essentials Certification** course by the University of Maryland
-- 📍 Based in **Amritsar, Punjab, India**
+I'm a **full-stack and ML developer** who loves building **production-grade platforms** with **real-time features** and **AI/ML integrations**. Currently in my 4th year of **B.Tech in Computer Science & Engineering** at **Guru Nanak Dev University, Amritsar** (2023 – 2027) with a CGPA of **8.55 / 10**, I've worked on **medical imaging with deep learning (CNNs)** and **RAG pipelines with LangChain**.
+
+I'm also a consistent problem solver: **700+ DSA problems** solved on LeetCode and GeeksforGeeks, with a **1700+ LeetCode contest rating**. 🧩
 
 ---
 
-## 🛠️ Tech Stack
+## 💼 Working On
 
-**Languages**
+<div align="center">
+  <img src="https://img.shields.io/badge/Full--Stack_%26_ML_Developer-B.Tech_CSE_|_GNDU-00D9FF?style=for-the-badge&logoColor=white" alt="Current Role" />
+</div>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+- 🔭 Building **Fleeter**, **DevNautics** and **NeuroSight** (see projects below)
+- 🌱 Exploring **AI-powered web platforms** and **medical imaging with deep learning**
+- 👯 Open to **internships, collaborations and interesting projects** in full-stack development and AI/ML
+- 💬 Ask me about: **Next.js**, **Real-time Apps**, **RAG Pipelines**, **CNNs**, **DSA**
 
-**Frontend**
+---
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+## 🛠️ Tech Stack & Tools
 
-**Backend**
+### **Programming Languages**
+<div align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+</div>
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+### **Frontend & Web**
+<div align="center">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</div>
 
-**Databases**
+### **Backend Frameworks**
+<div align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.io" />
+</div>
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+### **Databases**
+<div align="center">
+  <img src="https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logoColor=white" alt="ChromaDB" />
+</div>
 
-**AI / ML**
+### **AI & ML**
+<div align="center">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/RAG-FF6B35?style=for-the-badge&logoColor=white" alt="RAG" />
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
+</div>
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+### **Services & Integration**
+<div align="center">
+  <img src="https://img.shields.io/badge/ZegoCloud-0052CC?style=for-the-badge&logoColor=white" alt="ZegoCloud" />
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" alt="Cloudinary" />
+  <img src="https://img.shields.io/badge/Nodemailer-22B573?style=for-the-badge&logoColor=white" alt="Nodemailer" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+</div>
 
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+### **Tools & Platforms**
+<div align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/MySQL_Workbench-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Workbench" />
+  <img src="https://img.shields.io/badge/Vercel-0B0D0E?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+</div>
 
 **CS Fundamentals:** Data Structures & Algorithms • OOP • Operating Systems • Computer Networks • DBMS
 
@@ -117,38 +137,62 @@
 
 ---
 
-
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=navkiratsingh90&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navkiratsingh90&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=navkiratsingh90&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=navkiratsingh90&theme=tokyo-night&hide_border=true" width="95%" />
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=navkiratsingh90&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true&animation=true" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=navkiratsingh90&show_icons=true&locale=en&theme=github_dark&hide_border=true&animation=true&count_private=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://streak-stats.demolab.com/?user=navkiratsingh90&theme=github-dark&hide_border=true" alt="GitHub Streak" />
 </div>
-
 
 ---
 
-## 🤝 Let's Connect
+## 🏆 Achievements
 
-I'm open to internships, collaborations and interesting projects in **full-stack development** and **AI/ML**.
+- 🥈 Secured **2nd position** out of **150+ candidates** in the university-level selection for the **AI Essentials Certification** course by the University of Maryland
+- 📈 **1700+** rating in LeetCode contests
+- 🧩 **700+ DSA problems** solved across LeetCode and GeeksforGeeks
 
-📫 **Email:** [kiratsingh2181@gmail.com](mailto:kiratsingh2181@gmail.com)
-💼 **LinkedIn:** [Navkirat Singh](https://www.linkedin.com/in/YOUR-LINKEDIN-ID)
+---
+
+## 🤝 Let's Connect!
 
 <div align="center">
+  <a href="mailto:kiratsingh2181@gmail.com">
+    <img src="https://img.shields.io/badge/Email-kiratsingh2181@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/YOUR-LEETCODE-ID">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" />
+---
 
-⭐ *If you like my work, consider giving my repositories a star!* ⭐
+## ⚡ Fun Facts
 
+- 💻 **Full-Stack Builder**: from real-time ride-hailing to AI diagnostics
+- 🧠 **ML Enthusiast**: CNNs, medical imaging and RAG pipelines
+- 🧩 **DSA Grinder**: 700+ problems solved and counting
+- 🔧 **Production-Ready Mindset**: role-based access, JWT auth and real-time features baked in
+- 🤖 **AI Integrator**: LLMs and deep learning inside real web products
+
+---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random dev quote" />
+</div>
+
+---
+
+<div align="center">
+  <p>
+    <strong>Made with 💙 by Navkirat Singh</strong>
+  </p>
+  <p>
+    <em>⭐ If you like my work, consider giving my repositories a star! ⭐</em>
+  </p>
 </div>

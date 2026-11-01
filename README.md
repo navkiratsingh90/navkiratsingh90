@@ -1,4 +1,4 @@
-# <div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Navkirat+Singh;Full-Stack+%26+ML+Developer;Next.js+%7C+FastAPI+%7C+Express+Developer;AI+Platform+Builder+%7C+700%2B+DSA+Problems+Solved" alt="Typing animation" /></div>
+# <div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Navkirat+Singh;Full-Stack+%26+ML+Developer;Next.js+%7C+FastAPI+%7C+Express+Developer;AI+Platform+Builder+%7C+850%2B+DSA+Problems+Solved" alt="Typing animation" /></div>
 
 <div align="center">
   <p>
@@ -13,9 +13,9 @@
 
 ## 🚀 About Me
 
-I'm a **full-stack and ML developer** who loves building **production-grade platforms** with **real-time features** and **AI/ML integrations**. Currently in my 4th year of **B.Tech in Computer Science & Engineering** at **Guru Nanak Dev University, Amritsar** (2023 – 2027) with a CGPA of **8.55 / 10**, I've worked on **medical imaging with deep learning (CNNs)** and **RAG pipelines with LangChain**.
+I'm a **full-stack and ML developer** who loves building **production-grade platforms** with **real-time features** and **AI/ML integrations**. Currently in my 4th year of **B.Tech in Computer Science & Engineering** at **Guru Nanak Dev University, Amritsar** (2023 – 2027) with a CGPA of **8.55 / 10**, I've worked on **medical imaging with deep learning (CNNs)**, **Generative AI / LLM applications** and **RAG pipelines with LangChain & LangGraph**.
 
-I'm also a consistent problem solver: **700+ DSA problems** solved on LeetCode and GeeksforGeeks, with a **1700+ LeetCode contest rating**. 🧩
+I'm also a consistent problem solver: **850+ DSA problems** solved on LeetCode and GeeksforGeeks, with a **1700+ LeetCode contest rating**. 🧩
 
 ---
 
@@ -29,6 +29,13 @@ I'm also a consistent problem solver: **700+ DSA problems** solved on LeetCode a
 - 🌱 Exploring **AI-powered web platforms** and **medical imaging with deep learning**
 - 👯 Open to **internships, collaborations and interesting projects** in full-stack development and AI/ML
 - 💬 Ask me about: **Next.js**, **Real-time Apps**, **RAG Pipelines**, **CNNs**, **DSA**
+
+---
+
+## 🎓 Education
+
+- **B.Tech in Computer Science & Engineering**, Guru Nanak Dev University, Amritsar (Aug 2023 – June 2027), CGPA **8.55 / 10**
+- **Senior Secondary (12th, PCM)**, Sri Guru Harkrishan Public School (2021 – 2022), **90.8%**
 
 ---
 
@@ -73,7 +80,12 @@ I'm also a consistent problem solver: **700+ DSA problems** solved on LeetCode a
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logoColor=white" alt="LangGraph" />
   <img src="https://img.shields.io/badge/RAG-FF6B35?style=for-the-badge&logoColor=white" alt="RAG" />
+  <img src="https://img.shields.io/badge/Vector_Databases-FF6B35?style=for-the-badge&logoColor=white" alt="Vector Databases" />
+  <img src="https://img.shields.io/badge/Generative_AI-00D084?style=for-the-badge&logoColor=white" alt="Generative AI" />
+  <img src="https://img.shields.io/badge/LLMs-00D084?style=for-the-badge&logoColor=white" alt="LLMs" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-412991?style=for-the-badge&logoColor=white" alt="Prompt Engineering" />
   <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
 </div>
 
@@ -89,7 +101,10 @@ I'm also a consistent problem solver: **700+ DSA problems** solved on LeetCode a
 <div align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logoColor=white" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab" />
   <img src="https://img.shields.io/badge/MySQL_Workbench-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Workbench" />
   <img src="https://img.shields.io/badge/Vercel-0B0D0E?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
 </div>
@@ -101,7 +116,7 @@ I'm also a consistent problem solver: **700+ DSA problems** solved on LeetCode a
 ## 🚀 Featured Projects
 
 ### 🚗 Fleeter: Full-Stack Ride-Hailing Platform
-**Stack:** `Next.js` `TypeScript` `MongoDB` `Socket.io` `ZegoCloud`
+**Stack:** `Next.js` `TypeScript` `MongoDB` `Socket.io` `Cloudinary` `ZegoCloud`
 
 - Production-grade ride-hailing platform with **real-time booking** and **live driver tracking**
 - **Video KYC** (via ZegoCloud) for driver verification, with **role-based access control** for Riders, Drivers and Admins
@@ -152,7 +167,7 @@ I'm also a consistent problem solver: **700+ DSA problems** solved on LeetCode a
 
 - 🥈 Secured **2nd position** out of **150+ candidates** in the university-level selection for the **AI Essentials Certification** course by the University of Maryland
 - 📈 **1700+** rating in LeetCode contests
-- 🧩 **700+ DSA problems** solved across LeetCode and GeeksforGeeks
+- 🧩 **850+ DSA problems** solved across LeetCode and GeeksforGeeks
 
 ---
 
@@ -176,7 +191,7 @@ I'm also a consistent problem solver: **700+ DSA problems** solved on LeetCode a
 
 - 💻 **Full-Stack Builder**: from real-time ride-hailing to AI diagnostics
 - 🧠 **ML Enthusiast**: CNNs, medical imaging and RAG pipelines
-- 🧩 **DSA Grinder**: 700+ problems solved and counting
+- 🧩 **DSA Grinder**: 850+ problems solved and counting
 - 🔧 **Production-Ready Mindset**: role-based access, JWT auth and real-time features baked in
 - 🤖 **AI Integrator**: LLMs and deep learning inside real web products
 

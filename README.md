@@ -19,32 +19,16 @@ I'm also a consistent problem solver: **850+ DSA problems** solved on LeetCode a
 
 ---
 
-## 💼 Working On
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Full--Stack_%26_ML_Developer-B.Tech_CSE_|_GNDU-00D9FF?style=for-the-badge&logoColor=white" alt="Current Role" />
-</div>
-
-- 🔭 Building **Fleeter**, **DevNautics** and **NeuroSight** (see projects below)
-- 🌱 Exploring **AI-powered web platforms** and **medical imaging with deep learning**
-- 👯 Open to **internships, collaborations and interesting projects** in full-stack development and AI/ML
-- 💬 Ask me about: **Next.js**, **Real-time Apps**, **RAG Pipelines**, **CNNs**, **DSA**
-
----
-
-## 🎓 Education
-
-- **B.Tech in Computer Science & Engineering**, Guru Nanak Dev University, Amritsar (Aug 2023 – June 2027), CGPA **8.55 / 10**
-- **Senior Secondary (12th, PCM)**, Sri Guru Harkrishan Public School (2021 – 2022), **90.8%**
-
----
-
 ## 🛠️ Tech Stack & Tools
 
 ### **Programming Languages**
 <div align="center">
-  <img src="https://img.shields.io/badge/C++-F7DF1E?style=for-the-badge&logo=c++&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+ <!--
+Source - https://stackoverflow.com/q/64630394
+Posted by backlog
+Retrieved 2026-11-01, License - CC BY-SA 4.0
+-->
+  <img src="https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=social" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
@@ -115,18 +99,6 @@ I'm also a consistent problem solver: **850+ DSA problems** solved on LeetCode a
 ---
 
 
-### 💻 DevNautics: Developer Skill Enhancement Platform
-**Stack:** `Next.js` `TypeScript` `MongoDB` `NodeMailer` `Socket.IO` `Cloudinary`
-
-- Full-stack developer platform with **communities**, **project workspaces** and **real-time chat** via Socket.IO
-- **Daily faceoffs** with **AI-powered hints**, multiple domain categories and **live leaderboards**
-- **JWT authentication**, Cloudinary media storage, and Nodemailer for event invites and email workflows
-
-[![GitHub](https://img.shields.io/badge/Source_Code-181717?style=flat&logo=github)](https://github.com/navkiratsingh90/REPO-NAME-FOR-DEVNAUTICS)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-2C9CDB?style=flat&logo=vercel&logoColor=white)](https://YOUR-DEVNAUTICS-LIVE-LINK)
-
----
-
 ## 📊 GitHub Statistics
 
 <div align="center">
@@ -152,10 +124,10 @@ I'm also a consistent problem solver: **850+ DSA problems** solved on LeetCode a
   <a href="mailto:kiratsingh2181@gmail.com">
     <img src="https://img.shields.io/badge/Email-kiratsingh2181@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID">
+  <a href="https://linkedin.com/in/navkirat-singh-001246231">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://leetcode.com/YOUR-LEETCODE-ID">
+  <a href="https://leetcode.com/Navkirat92">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
 </div>

@@ -23,12 +23,7 @@ I'm also a consistent problem solver: **850+ DSA problems** solved on LeetCode a
 
 ### **Programming Languages**
 <div align="center">
- <!--
-Source - https://stackoverflow.com/q/64630394
-Posted by backlog
-Retrieved 2026-11-01, License - CC BY-SA 4.0
--->
-  <img src="https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=social" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
